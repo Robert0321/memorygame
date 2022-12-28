@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE5892A8295C165000195036 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5892A7295C164F00195036 /* Card.swift */; };
 		CEF83996295C0D4A006D5BAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF83995295C0D4A006D5BAB /* AppDelegate.swift */; };
 		CEF83998295C0D4A006D5BAB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF83997295C0D4A006D5BAB /* SceneDelegate.swift */; };
 		CEF8399A295C0D4A006D5BAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF83999295C0D4A006D5BAB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE5892A7295C164F00195036 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		CEF83992295C0D4A006D5BAB /* memorygame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = memorygame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF83995295C0D4A006D5BAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEF83997295C0D4A006D5BAB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				CEF83995295C0D4A006D5BAB /* AppDelegate.swift */,
 				CEF83997295C0D4A006D5BAB /* SceneDelegate.swift */,
+				CE5892A7295C164F00195036 /* Card.swift */,
 				CEF83999295C0D4A006D5BAB /* ViewController.swift */,
 				CEF8399B295C0D4A006D5BAB /* Main.storyboard */,
 				CEF8399E295C0D4D006D5BAB /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				CEF8399A295C0D4A006D5BAB /* ViewController.swift in Sources */,
 				CEF83996295C0D4A006D5BAB /* AppDelegate.swift in Sources */,
 				CEF83998295C0D4A006D5BAB /* SceneDelegate.swift in Sources */,
+				CE5892A8295C165000195036 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
